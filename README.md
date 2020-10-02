@@ -9,7 +9,7 @@ Pursuing Masters in Information Technology Management (ITM) with major in Data S
 
 <!-- Actual text -->
 
-You can find me on https://www.linkedin.com/in/aamanpandey/.
+My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/.
 
 <!-- Icons -->
 
