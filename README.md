@@ -7,6 +7,11 @@ Pursuing Masters in Information Technology Management (ITM) with major in Data S
 - 👯 I’m looking to collaborate on Natural language processing (NLP) projects
 - 📫 How to reach me: amanpandeyutd@gmail.com
 
+<!-- Actual text -->
+
+You can find me on https://www.linkedin.com/in/aamanpandey/.
+
+<!-- Icons -->
 
 
 
