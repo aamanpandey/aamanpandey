@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Aman
 
-Pursuing Masters in Information Technology Management (ITM) with major in Data Science at University of Texas at Dallas.
+Pursuing Masters in Information Technology Management (ITM) with major in Data Science at The University of Texas at Dallas.
 
 - 🔭 I’m currently working on Chatbot
 - 🌱 I’m currently learning Natural language processing (NLP)
