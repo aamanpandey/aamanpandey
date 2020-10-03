@@ -1,4 +1,5 @@
-### Hi there 👋, I am Aman,
+### Hello folks! 👋, I am Aman,
+----------------------------------------------------------------------------------------------------------------------------------------
 
 Pursuing Masters in Information Technology Management (ITM) with major in Data Science at The University of Texas at Dallas.
 
@@ -16,6 +17,7 @@ My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/
 
 
 ## 🔧 Technologies & Tools
+------------------------------------------------------------------------------------------------------------------------------------------
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -29,7 +31,7 @@ My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/
 ![](https://img.shields.io/badge/Tools-jSonar-informational?style=flat&logo=jSonar&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Visualization-PowerBI-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Analysis_Tool-SAS-informational?style=flat&logo=SAS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Analysis_Tool-SAS-informational?style=flat&logo=sass&logoColor=white&color=2bbc8a)
 
 
 
