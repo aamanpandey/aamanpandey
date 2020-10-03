@@ -36,6 +36,8 @@ My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/
 ## 	📄 Certification
 ![](https://img.shields.io/badge/AWS-AWS_Certified_Cloud_Practitioner-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tableau-Tableau_Analyst-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/NSE-NSE_Certified_Investment_Analyst_Champion_(NCIAC)-informational?style=flat&logo=Finance&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/A_Cloud_Guru-A_Cloud_Guru_AWS_Certified_Machine_Learning_-_Specialty-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
