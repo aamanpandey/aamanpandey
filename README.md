@@ -1,11 +1,11 @@
-### Hi there 👋, I am Aman
+### Hi there 👋, I am Aman,
 
 Pursuing Masters in Information Technology Management (ITM) with major in Data Science at The University of Texas at Dallas.
 
 - 🔭 I’m currently working on Chatbot
 - 🌱 I’m currently learning Natural language processing (NLP)
 - 👯 I’m looking to collaborate on Natural language processing (NLP) projects
-- 📫 How to reach me: amanpandeyutd@gmail.com
+- 📫 How to reach me: amanpandeyutd@gmail.com ✏️ 	📧
 
 <!-- Actual text -->
 
@@ -33,7 +33,7 @@ My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/.
 
 
 
-## Certification
+## 	📄 Certification
 ![](https://img.shields.io/badge/AWS-AWS_Certified_Cloud_Practitioner-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tableau-Tableau_Analyst-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 
