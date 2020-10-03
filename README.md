@@ -28,7 +28,7 @@ My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-jSonar-informational?style=flat&logo=jSonar&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data_Visualization-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Visualization-PowerBI-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Analysis_Tool-SAS-informational?style=flat&logo=SAS&logoColor=white&color=2bbc8a)
 
 
