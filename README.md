@@ -34,7 +34,7 @@ My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/
 
 
 ## 	📄 Certification
-![](https://img.shields.io/badge/AWS-AWS_Certified_Cloud_Practitioner-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-AWS_Certified_Cloud_Practitioner-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tableau-Tableau_Analyst-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 
 
