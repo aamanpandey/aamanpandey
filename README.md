@@ -21,21 +21,21 @@ My LinkedIn Profile: https://www.linkedin.com/in/aamanpandey/
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JAVA-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=SQL&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-SQL-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-jSonar-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Data_Visualization-PowerBI-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Analysis_Tool-SAS-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-jSonar-informational?style=flat&logo=jSonar&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Visualization-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Data_Visualization-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Analysis_Tool-SAS-informational?style=flat&logo=SAS&logoColor=white&color=2bbc8a)
 
 
 
 ## 	📄 Certification
-![](https://img.shields.io/badge/AWS-AWS_Certified_Cloud_Practitioner-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tableau-Tableau_Analyst-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/AWS-AWS_Certified_Cloud_Practitioner-informational?style=flat&logo=AWS&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tableau-Tableau_Analyst-informational?style=flat&logo=Tableau&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
