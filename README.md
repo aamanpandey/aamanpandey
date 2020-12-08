@@ -28,6 +28,10 @@ Pursuing Masters in Information Technology Management (ITM) with major in Data S
 ![](https://img.shields.io/badge/Analysis_Tool-R-informational?style=flat&logo=R&logoColor=white&color=2bbc8a)
 
 
+## 	🔧 Cloud Technology
+![](https://img.shields.io/badge/Cloud-Amazon_Web_Service-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-Microsoft_Azure-informational?style=flat&logo=microsoft&logoColor=white&color=2bbc8a)
+
 
 ## 	📄 Certification
 ![](https://img.shields.io/badge/AWS-AWS_Certified_Cloud_Practitioner-informational?style=flat&logo=Amazon&logoColor=white&color=2bbc8a)
